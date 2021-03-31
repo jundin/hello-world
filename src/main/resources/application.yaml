@@ -1,0 +1,12 @@
+library:
+  location: nanjing
+  books:
+    - name: spring
+      description: AAA
+    - name: java
+      description: BBB
+    - name: netty
+      description: CCC
+  price:
+    spring: 80
+    java: 40
